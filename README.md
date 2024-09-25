@@ -1,3 +1,10 @@
+ <img src="./assets/images/1.jpeg" width="350">
+ <img src="./assets/images/2.jpeg" width="350">
+ <img src="./assets/images/3.jpeg" width="350">
+ <img src="./assets/images/4.jpeg" width="350">
+ <img src="./assets/images/5.jpeg" width="350">
+ <img src="./assets/images/6.jpeg" width="350">
+
 ## What I Have Learned
 
 1. **SafeAreaView**
